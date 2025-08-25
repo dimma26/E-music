@@ -1,0 +1,17 @@
+h1 {
+  color: rgb(3, 118, 3);
+  font-size: large;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+ul {
+  color: blue;
+  font-size: medium;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+h3 {
+  color: green;
+  font-size: medium;
+}
+h4 {
+  color: purple;
+}
